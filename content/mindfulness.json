@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "mindfulness.zen_reset_60",
+      "type": "guided_exercise",
+      "title": "60-Second Reset",
+      "durationSeconds": 60,
+      "steps": [
+        {
+          "durationSeconds": 10,
+          "instruction": "Let your shoulders relax."
+        },
+        {
+          "durationSeconds": 20,
+          "instruction": "Breathe gently, at your own comfortable pace."
+        },
+        {
+          "durationSeconds": 20,
+          "instruction": "Notice where you are, without judging your thoughts."
+        },
+        {
+          "durationSeconds": 10,
+          "instruction": "When you're ready, choose one tiny move."
+        }
+      ],
+      "completionMessage": "Ready to try a tiny step?",
+      "tags": [
+        "calm",
+        "overwhelmed"
+      ]
+    }
+  ]
+}
