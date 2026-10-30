@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "celebration.thing_captured",
+      "type": "message",
+      "event": "thing_captured",
+      "text": "Nice! One less thing bouncing around in your head.",
+      "tone": "supportive"
+    },
+    {
+      "id": "celebration.first_move",
+      "type": "message",
+      "event": "first_move_started",
+      "text": "Look at you, doing the thing!",
+      "tone": "playful"
+    },
+    {
+      "id": "celebration.finished",
+      "type": "message",
+      "event": "thing_completed",
+      "text": "YOU ABSOLUTE LEGEND.",
+      "tone": "playful"
+    }
+  ]
+}
