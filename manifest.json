@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "0.1.0",
+  "minimumAppVersion": "0.1.0",
+  "collections": [
+    {
+      "id": "activation",
+      "path": "content/activation.json"
+    },
+    {
+      "id": "mindfulness",
+      "path": "content/mindfulness.json"
+    },
+    {
+      "id": "celebrations",
+      "path": "content/celebrations.json"
+    }
+  ]
+}
