@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "activation.five_minute_start",
+      "type": "timed_prompt",
+      "title": "Just Five Minutes",
+      "durationSeconds": 300,
+      "prompt": "Try one tiny move for five minutes. You can stop afterward.",
+      "completionMessage": "You showed up. That counts.",
+      "tags": [
+        "task-initiation",
+        "stuck"
+      ]
+    },
+    {
+      "id": "activation.countdown",
+      "type": "countdown",
+      "title": "3, 2, 1… Go!",
+      "durationSeconds": 3,
+      "prompt": "When the countdown ends, do your First Move.",
+      "completionMessage": "You made a start!",
+      "tags": [
+        "task-initiation"
+      ]
+    }
+  ]
+}
